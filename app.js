@@ -30,8 +30,6 @@
     { src: "images/iff3.jpg", p: 5 },
     { src: "images/img_4114.jpg", p: 6 }, { src: "images/img_4115.jpg", p: 6 },
     { src: "images/img_4116.jpg", p: 6 }, { src: "images/img_4117.jpg", p: 6 },
-{ src: "images/img_3883.jpg", p: 6 },
-    { src: "images/img_3902.jpg", p: 6 },
     { src: "images/sat.jpg", p: 6 },      { src: "images/sway.jpg", p: 6 },
     { src: "images/dscf4036.jpg", p: 6 }, { src: "images/screenshot.jpg", p: 6 }
   ];
