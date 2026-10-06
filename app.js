@@ -19,6 +19,7 @@
     { src: "images/castle_ivar3.jpg", p: 0 },    { src: "images/castle_ivar4.jpg", p: 0 },
     { src: "images/grlkid2.jpg", p: 1 }, { src: "images/grlkid1.jpg", p: 1 },
     { src: "images/grlkid3.jpg", p: 1 }, { src: "images/grlkid7.jpg", p: 1 },
+    { src: "images/grlkid6.jpg", p: 1 },
     { src: "images/paper1.jpg", p: 2 }, { src: "images/paper2.jpg", p: 2 },
     { src: "images/paper3.jpg", p: 2 },
     { src: "images/jrude1.jpg", p: 3 }, { src: "images/jrude2.jpg", p: 3 },
