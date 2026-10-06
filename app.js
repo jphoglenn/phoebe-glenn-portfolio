@@ -32,7 +32,8 @@
     { src: "images/img_4116.jpg", p: 6 }, { src: "images/img_4117.jpg", p: 6 },
     { src: "images/sat.jpg", p: 6 },      { src: "images/sway.jpg", p: 6 },
     { src: "images/dscf4036.jpg", p: 6 }, { src: "images/screenshot.jpg", p: 6 },
-    { src: "images/mic1.jpg", p: 6 }, { src: "images/mic2.jpg", p: 6 }
+    { src: "images/mic1.jpg", p: 6 }, { src: "images/mic2.jpg", p: 6 },
+    { src: "images/img_4804.jpg", p: 6 }, { src: "images/img_4805.jpg", p: 6 }
   ];
 
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
