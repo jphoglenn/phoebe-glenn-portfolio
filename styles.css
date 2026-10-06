@@ -202,7 +202,7 @@ button { font: inherit; color: inherit; background: none; border: 0; }
 .thumb:hover, .thumb:focus-visible { transform: scale(1.14) rotate(0deg) !important; z-index: 5; }
 
 /* positions from the original hero: 5 tilted B&W thumbnails */
-.t1 { left: 5%;  top: 23%; width: 80px;  height: 80px;  transform: rotate(3deg); }
+.t1 { left: 63%; top: 18%; width: 80px;  height: 80px;  transform: rotate(3deg); }
 .t2 { left: 87%; top: 28%; width: 90px;  height: 80px;  transform: rotate(-2deg); }
 .t3 { left: 47%; top: 58%; width: 75px;  height: 75px;  transform: rotate(1deg); }
 .t4 { left: 33%; top: 75%; width: 95px;  height: 110px; transform: rotate(2deg); }
