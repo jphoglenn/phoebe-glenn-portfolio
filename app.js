@@ -28,12 +28,12 @@
     { src: "images/lorenxaud4.jpg", p: 4 },
     { src: "images/iff1.jpg", p: 5 }, { src: "images/iff2.jpg", p: 5 },
     { src: "images/iff3.jpg", p: 5 },
-    { src: "images/img_4114.jpg", p: 6 }, { src: "images/img_4115.jpg", p: 6 },
-    { src: "images/img_4116.jpg", p: 6 }, { src: "images/img_4117.jpg", p: 6 },
-    { src: "images/sat.jpg", p: 6 },      { src: "images/sway.jpg", p: 6 },
-    { src: "images/dscf4036.jpg", p: 6 }, { src: "images/screenshot.jpg", p: 6 },
-    { src: "images/mic1.jpg", p: 6 }, { src: "images/mic2.jpg", p: 6 },
-    { src: "images/img_4804.jpg", p: 6 }, { src: "images/img_4805.jpg", p: 6 }
+    { src: "images/mic2.jpg", p: 6 }, { src: "images/img_4804.jpg", p: 6 },
+    { src: "images/img_4805.jpg", p: 6 }, { src: "images/img_4114.jpg", p: 6 },
+    { src: "images/img_4115.jpg", p: 6 }, { src: "images/img_4116.jpg", p: 6 },
+    { src: "images/img_4117.jpg", p: 6 }, { src: "images/sat.jpg", p: 6 },
+    { src: "images/sway.jpg", p: 6 }, { src: "images/dscf4036.jpg", p: 6 },
+    { src: "images/screenshot.jpg", p: 6 }, { src: "images/mic1.jpg", p: 6 }
   ];
 
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
