@@ -207,24 +207,4 @@
     })();
   }
 
-  /* ---------- restrained parallax on hero thumbnails ---------- */
-
-  var thumbs = Array.prototype.slice.call(document.querySelectorAll(".thumb"));
-  var speeds = [0.06, 0.1, 0.14, 0.08, 0.12, 0.05];
-  var ticking = false;
-
-  function parallax() {
-    ticking = false;
-    var y = window.scrollY || window.pageYOffset;
-    if (y > window.innerHeight * 1.5) return;
-    thumbs.forEach(function (t, i) {
-      t.style.translate = "0 " + Math.round(y * (speeds[i % speeds.length])) + "px";
-    });
-  }
-
-  if (!reduceMotion && thumbs.length) {
-    window.addEventListener("scroll", function () {
-      if (!ticking) { ticking = true; requestAnimationFrame(parallax); }
-    }, { passive: true });
-  }
 })();
